@@ -1,0 +1,2 @@
+To run the "react-native run-android" command, the android SDK and emulator have to be installed first:
+	https://facebook.github.io/react-native/releases/0.23/docs/android-setup.html
